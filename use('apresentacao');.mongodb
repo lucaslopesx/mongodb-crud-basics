@@ -1,6 +1,6 @@
 use('apresentacao');
 
-/*db.students.insertMany([
+db.students.insertMany([
     {
         "firstName": "Lucas",
         "lastName": "Lopes",
@@ -41,13 +41,13 @@ use('apresentacao');
         "birthDate": "01-01-2000",
         "country": "Brazil"
     }
-])*/
+])
 
 //db.students.find({gender: "M"})
 
 //db.students.updateOne({"firstName": "Gustavo"}, {$set: {age: 19}})
 
-//db.students.deleteOne({_id: ObjectId("61a65d5db98aaa551af5b0a3")})
+//db.students.deleteOne({_id: ObjectId("61a6875d284b3a645a03b7d3")})
 
 //db.students.deleteMany({})
 
