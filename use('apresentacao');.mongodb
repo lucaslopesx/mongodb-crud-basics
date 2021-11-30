@@ -43,10 +43,12 @@ use('apresentacao');
     }
 ])*/
 
-//db.students.find({});
-//db.students.find({gender: "F"})
+//db.students.find({gender: "M"})
 
-//db.students.updateOne({"firstName": "Gustavo"}, {$set: {lastName: "Luiz"}})
+//db.students.updateOne({"firstName": "Gustavo"}, {$set: {age: 19}})
 
+//db.students.deleteOne({_id: ObjectId("61a65d5db98aaa551af5b0a3")})
 
+//db.students.deleteMany({})
 
+db.students.find({});
