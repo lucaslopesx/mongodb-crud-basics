@@ -1,0 +1,42 @@
+[
+    {
+        "firstName": "Lucas",
+        "lastName": "Lopes",
+        "age": 19,
+        "emailAddress": "lucas.lopesx1@gmail.com",
+        "phoneNumber": "35999694467",
+        "gender": "M",
+        "birthDate": "16-01-2002",
+        "country": "Brazil"
+    },
+    {
+        "firstName": "Gustavo",
+        "lastName": "Luiz",
+        "age": 21,
+        "emailAddress": "gustavoluiz@gmail.com",
+        "phoneNumber": "35888888888",
+        "gender": "M",
+        "birthDate": "01-01-2000",
+        "country": "Brazil"
+    },
+    {
+        "firstName": "Elder",
+        "lastName": "Julio",
+        "age": 24,
+        "emailAddress": "elderjulio@gmail.com",
+        "phoneNumber": "357777777777",
+        "gender": "M",
+        "birthDate": "01-01-2000",
+        "country": "Brazil"
+    },
+    {
+        "firstName": "Julia",
+        "lastName": "Ferreira",
+        "age": 22,
+        "emailAddress": "juliaferreira@gmail.com",
+        "phoneNumber": "356666666666",
+        "gender": "F",
+        "birthDate": "01-01-2000",
+        "country": "Brazil"
+    }
+]
